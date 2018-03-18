@@ -9,6 +9,8 @@
 % Contact: taixiangjiang@gmail.com
 % Date: 03/03/2018
 
+        
+
 clear all;close all;clc;
 path(path,genpath(pwd));
 %%--- Load Video ---%%%
@@ -32,7 +34,28 @@ MVIF0 = MEANVIF(Rainy*255,B_clean*255);
 MGMSD0 = MGMSD(Rainy,B_clean);
 end   %% quanlity assements of the rainy video
 fprintf('Rainy       |   %.4f   |   %.4f   |   %.4f   |   %.4f   |   %.4f   |   %.4f  \n',PSNR0,MSSIM0 ,MFSIM0,MVIF0,MUQI0,MGMSD0);
+
 %% FastDeRain
+%%%      Main model:
+%%%      $\min\limits_{\mathcal{B,R,Vi,Di}}\quad\lambda_1||\mathcal{V_1}||_1+\lambda_2||\mathcal{V}_2||_1+\lambda_3||\mathcal{V}_3||_1+\lambda_4||\mathcal{V}_4||_1$
+%%%         s.t.
+%%%              $\mathcal{V}_1=D_y(\mathcal{R})$ 
+%%%              $\mathcal{V}_2=\mathcal{R}$
+%%%              $\mathcal{V}_3=D_x(\mathcal{B})$
+%%%              $\mathcal{V}_4=D_t(\mathcal{B})$
+%%%
+%%%   input:      the original rainy video $\mathcal{O}$
+%%%   output:     1 the rainy steak $\mathcal{R}$   2 the rain-free video $\mathcal{B}$    
+
+%%%     Parameters :
+%%%     opts.lam1   =>  $\lambda_1$
+%%%     opts.lam2   =>  $\lambda_2$
+%%%     opts.lam3   =>  $\lambda_3$
+%%%     opts.lam4   =>  $\lambda_4$
+%%%     opts.mu     =>  $\mu$
+%%%     opts.tol    =>  stopping rriterion   
+%%%     opts.maxit  =>  maxium iteration   
+
     tStart =  tic;
     [B_1,R_1,iter] = FastDeRain(O_Rainy,opts);
     time = toc(tStart);
