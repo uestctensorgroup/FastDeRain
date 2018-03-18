@@ -5,7 +5,15 @@
 % ''A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing
 % Discriminatively Intrinsic Priors'' The IEEE Conference on Computer Vision
 % and Pattern Recognition (CVPR), 2017, pp. 4057-4066
-% 
+% @InProceedings{Jiang_2017_CVPR,
+%     author = {Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Deng, Liang-Jian and Wang, Yao},
+%     title = {A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors},
+%     booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+%     month = {July},
+%     pages = {2818-2827},
+%     doi={10.1109/CVPR.2017.301},
+%     year = {2017}}
+
 % Contact: taixiangjiang@gmail.com
 % Date: 03/03/2018
 
