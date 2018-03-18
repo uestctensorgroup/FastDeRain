@@ -12,7 +12,8 @@ author = {Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Deng, Liang-J
 title = {A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors},\
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},\
 month = {July},\
-pages = {4057--4066},\
+pages = {2818-2827},\
+doi={10.1109/CVPR.2017.301},\
 year = {2017}}
 
 (The .p files will be replaced by .m files as soon as possible.)\
