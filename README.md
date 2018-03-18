@@ -8,17 +8,11 @@ An early version document of the this menthod is:
 Tai-Xiang Jiang, Ting-Zhu Huang, Xi-Le Zhao, Liang-Jian Deng, Yao Wang; ''A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors'' The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 4057-4066
 
 @InProceedings{Jiang_2017_CVPR,
-
 author = {Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Deng, Liang-Jian and Wang, Yao},
-
 title = {A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors},
-
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-
 month = {July},
-
 pages = {4057--4066},
-
 year = {2017}
 }
 
