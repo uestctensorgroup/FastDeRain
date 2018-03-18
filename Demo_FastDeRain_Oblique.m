@@ -30,6 +30,28 @@ MUQI0 = MUQI(Rainy*255,B_clean*255);
 MVIF0 = MEANVIF(Rainy*255,B_clean*255);
 MGMSD0 = MGMSD(Rainy,B_clean);
 fprintf('Rainy                          | %.4f   |  %.4f | %.4f | %.4f | %.4f | %.4f \n',PSNR0,MSSIM0 ,MFSIM0,MVIF0,MUQI0,MGMSD0);
+
+%% FastDeRain
+%%%      Main model:
+%%%      $\min\limits_{\mathcal{B,R,Vi,Di}}\quad\lambda_1||\mathcal{V_1}||_1+\lambda_2||\mathcal{V}_2||_1+\lambda_3||\mathcal{V}_3||_1+\lambda_4||\mathcal{V}_4||_1$
+%%%         s.t.
+%%%              $\mathcal{V}_1=D_y(\mathcal{R})$ 
+%%%              $\mathcal{V}_2=\mathcal{R}$
+%%%              $\mathcal{V}_3=D_x(\mathcal{B})$
+%%%              $\mathcal{V}_4=D_t(\mathcal{B})$
+%%%
+%%%   input:      the original rainy video $\mathcal{O}$
+%%%   output:     1 the rainy steak $\mathcal{R}$   2 the rain-free video $\mathcal{B}$    
+
+%%%     Parameters :
+%%%     opts.lam1   =>  $\lambda_1$
+%%%     opts.lam2   =>  $\lambda_2$
+%%%     opts.lam3   =>  $\lambda_3$
+%%%     opts.lam4   =>  $\lambda_4$
+%%%     opts.mu     =>  $\mu$
+%%%     opts.tol    =>  stopping rriterion   
+%%%     opts.maxit  =>  maxium iteration  
+
 %% FastDeRain with shift strategy
 
 %%%  shift operation
@@ -50,6 +72,8 @@ end
 B_1 = smaller(B_Sb,padsize);
 B_1c = gray2color_hsv(O_hsv,gather(B_1));
 implay(B_1c);
+
+%% quanlity assements of the result by FastDeRain wtih the shift strategy
 fprintf('Calculating the indices of the results form FastDeRain (SHIFT)...\n');
 fprintf('Index                               | PSNR    | MSSIM   | MFSIM   | MVIF     |  MUIQI | MGMSD\n');
     PSNR1 = psnr(B_1c(:),B_clean(:),max(B_clean(:)));
@@ -61,6 +85,7 @@ fprintf('Index                               | PSNR    | MSSIM   | MFSIM   | MVI
     MGMSD1 = MGMSD(B_1c,B_clean);
 fprintf('FastDeRain (SHIFT)          | %.4f   |  %.4f | %.4f | %.4f | %.4f | %.4f \n',PSNR1,MSSIM1 ,MFSIM1,MVIF1,MUQI1,MGMSD1);
 fprintf('FastDeRain (SHIFT)  running time (GPU) :    %.4f  s\n', timeS);
+
 
 %% FastDeRain with rotation strategy
 %%% rotate operation
@@ -83,15 +108,15 @@ degree = -45;
 for i=1:size(RainyR,3)
     B_Rb (:,:,i)=imrotate(gather(B_R(:,:,i)),degree,'bicubic');
 end
-
 mid1=floor(size(B_Rb,1)/2);
 mid2=floor(size(B_Rb,2)/2);
 B_2 =B_Rb(mid1-height+1:mid1+height  ,  mid2-width+1:mid2+width  , 6 :105);  
 B_2c = gray2color_hsv(O_hsv,gather(B_2));
 implay(B_2c);
+
+%% quanlity assements of the result by FastDeRain wtih the rotation strategy
 fprintf('Calculating the indices of the results form FastDeRain (ROTATION)...\n');
 fprintf('Index                              | PSNR    | MSSIM   | MFSIM   | MVIF   |  MUIQI  | MGMSD\n');
-
 PSNR2 = psnr(B_2c(:),B_clean(:),max(B_clean(:)));
 MPSNR2 = MPSNR(B_2c,B_clean);
 MSSIM2 = MSSIM(B_2c,B_clean);
