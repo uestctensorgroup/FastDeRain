@@ -22,8 +22,9 @@
 %         eprint = {1803.07487},
 %         year = {2018},
 %         url = {https://arxiv.org/pdf/1803.07487.pdf}}
-% Contact: taixiangjiang@gmail.com
-% Date: 03/03/2018
+%
+%       Contact: taixiangjiang@gmail.com
+%       Date: 03/03/2018
 
         
 
