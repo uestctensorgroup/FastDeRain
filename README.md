@@ -36,13 +36,13 @@ If you use this code, please cite
 
 Meanwhile, our method for single image rain streaks removal are detailed in this article:\
 Liang-Jian Deng, Ting-Zhu Huang, Xi-Le Zhao, and Tai-Xiang Jiang; "A directional global sparse model for single image rain removal." Applied Mathematical Modelling (2018).\
-@article{deng2018directional,\
-  title={A directional global sparse model for single image rain removal},\
-  author={Deng, Liang-Jian and Huang, Ting-Zhu and Zhao, Xi-Le and Jiang, Tai-Xiang},\
-  journal={Applied Mathematical Modelling},\
-  year={2018},\
-  publisher={Elsevier}\
-  doi = {10.1016/j.apm.2018.03.001}}
+         @article{deng2018directional,\
+           title     = {A directional global sparse model for single image rain removal},\
+           author    = {Deng, Liang-Jian and Huang, Ting-Zhu and Zhao, Xi-Le and Jiang, Tai-Xiang},\
+           journal   = {Applied Mathematical Modelling},\
+           year      = {2018},\
+           publisher = {Elsevier}\
+           doi       = {10.1016/j.apm.2018.03.001}}
 
 (The .p files will be replaced by .m files as soon as possible.)
 Contact: taixiangjiang@gmail.com\
