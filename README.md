@@ -1,5 +1,5 @@
 # FastDeRain
-The implementation and video results of FastDeRain
+The Matlab implementation and video results of FastDeRain
 
 --------------Brief description-------------------------------------------
 
