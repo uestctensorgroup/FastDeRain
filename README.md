@@ -19,7 +19,7 @@ year = {2017}}
 The preprint of the extended journal version
 Tai-Xiang Jiang, Ting-Zhu Huang, Xi-Le Zhao, Liang-Jian Deng, Yao Wang; “Fastderain: A novel video rain streak removal method using
 directional gradient priors,” ArXiv e-prints, 2018.
-is now vailable at https://arxiv.org/abs/1803.07487.
+is now vailable at https://arxiv.org/abs/1803.07487.\
 @article{Jiang2018FastDeRain,\
    author = {Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Deng, Liang-Jian and Wang, Yao},\
     title = {FastDeRain: A Novel Video Rain Streak Removal Method Using Directional Gradient Priors},\
