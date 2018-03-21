@@ -39,9 +39,9 @@ load foreman_clean.mat  % Clean video
 [O_Rainy,~]=rgb2gray_hsv(Rainy);   %rgb2hsv
 [O_clean,O_hsv]=rgb2gray_hsv(B_clean);
 Rain = O_Rainy-O_clean;
-fprintf('Index      | PSNR    | MSSIM   | MFSIM   | MVIF   |  MUIQI | MGMSD\n'); 
 
-for i=1
+%% quanlity assements of the rainy video
+fprintf('Index      | PSNR    | MSSIM   | MFSIM   | MVIF   |  MUIQI | MGMSD\n'); 
 PSNR0 = psnr(Rainy(:),B_clean(:),max(B_clean(:)));
 MPSNR0 = MPSNR(Rainy,B_clean);
 MSSIM0 = MSSIM(Rainy,B_clean);
@@ -49,7 +49,6 @@ MFSIM0 = MFSIM(Rainy*255,B_clean*255);
 MUQI0 = MUQI(Rainy*255,B_clean*255);
 MVIF0 = MEANVIF(Rainy*255,B_clean*255);
 MGMSD0 = MGMSD(Rainy,B_clean);
-end   %% quanlity assements of the rainy video
 fprintf('Rainy       |   %.4f   |   %.4f   |   %.4f   |   %.4f   |   %.4f   |   %.4f  \n',PSNR0,MSSIM0 ,MFSIM0,MVIF0,MUQI0,MGMSD0);
 
 %% FastDeRain
@@ -78,8 +77,7 @@ fprintf('Rainy       |   %.4f   |   %.4f   |   %.4f   |   %.4f   |   %.4f   |   
     time = toc(tStart);
     B_c = gray2color_hsv(O_hsv,gather(B_1));
     
-
-    for i=1
+%% quanlity assements of the result by FastDeRain  
 PSNR1 = psnr(B_c(:),B_clean(:),max(B_clean(:)));
 MPSNR1 = MPSNR(B_c,B_clean);
 MSSIM1 = MSSIM(B_c,B_clean);
@@ -87,7 +85,6 @@ MFSIM1 = MFSIM(B_c*255,B_clean*255);
 MVIF1 = MEANVIF(B_c*255,B_clean*255);
 MUQI1 = MUQI(B_c*255,B_clean*255);
 MGMSD1 = MGMSD(B_c,B_clean);
-    end%% quanlity assements of the result by FastDeRain
 fprintf('FastDeRain |   %.4f   |   %.4f   |   %.4f   |   %.4f   |   %.4f   |   %.4f  \n',PSNR1,MSSIM1 ,MFSIM1,MVIF1,MUQI1,MGMSD1);
              
 fprintf('FastDeRain running time (CPU) :    %.4f  s\n', time);
