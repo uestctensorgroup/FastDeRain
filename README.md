@@ -14,7 +14,7 @@ Tai-Xiang Jiang, Ting-Zhu Huang, Xi-Le Zhao, Liang-Jian Deng, Yao Wang; “Fastd
 directional gradient priors,” ArXiv e-prints, 2018.\
 is now vailable at https://arxiv.org/abs/1803.07487. 
 
-If you use this code, please cite\
+If you use this code, please cite
 
 @InProceedings{Jiang_2017_CVPR,\
 author = {Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Deng, Liang-Jian and Wang, Yao},\
@@ -32,7 +32,8 @@ year = {2017}}
 archivePrefix = "arXiv",\
    eprint = {1803.07487},\
      year = {2018},\
-     url  = {https://arxiv.org/pdf/1803.07487.pdf}}\
-(The .p files will be replaced by .m files as soon as possible.)\
+     url  = {https://arxiv.org/pdf/1803.07487.pdf}}
+     
+(The .p files will be replaced by .m files as soon as possible.)
 Contact: taixiangjiang@gmail.com\
 Date: 03/03/2018
