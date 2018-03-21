@@ -5,7 +5,7 @@ The implementation and video results of FastDeRain
 
 This folder contains the implementation of the algorithm for video rain streaks removal named FastDeRain.
 
-An early version document of the this menthod is:\
+An early material of the this menthod is:\
 Tai-Xiang Jiang, Ting-Zhu Huang, Xi-Le Zhao, Liang-Jian Deng, Yao Wang; ''A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors'' The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 4057-4066\
 Aailable at: http://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.pdf or http://ieeexplore.ieee.org/document/8099784/ 
 
