@@ -45,6 +45,7 @@ Liang-Jian Deng, Ting-Zhu Huang, Xi-Le Zhao, and Tai-Xiang Jiang; "A directional
            publisher = {Elsevier}\
            doi       = {10.1016/j.apm.2018.03.001}}
 
-(The .p files will be replaced by .m files as soon as possible.)
+(The .p files will be replaced by .m files as soon as possible.)\
 Contact: taixiangjiang@gmail.com\
+https://sites.google.com/view/taixiangjiang/  \
 Date: 03/03/2018
