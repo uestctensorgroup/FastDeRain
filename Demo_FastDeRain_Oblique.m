@@ -29,6 +29,7 @@
 clear all;close all;clc;
 path(path,genpath(pwd));
 %%--- Load Video ---%%%
+% !!! Please extract oblique_rain_streaks_highway2.mat from oblique_rain_streaks_highway2.zip
 load oblique_rain_streaks_highway2.mat   % Rainy video  ( "highway2" with the synthetic oblique rain streaks in case 2), parameter opts, and Clean video
 implay(Rainy)
 [O_Rainy,~]=rgb2gray_hsv(Rainy);   %rgb2hsv
