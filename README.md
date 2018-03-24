@@ -35,7 +35,7 @@ If you use this code, please cite
            url  = {https://arxiv.org/pdf/1803.07487.pdf}}
 
 Meanwhile, our method for single image rain streaks removal are detailed in this article:\
-Liang-Jian Deng, Ting-Zhu Huang, Xi-Le Zhao, and Tai-Xiang Jiang; "A directional global sparse model for single image rain removal." Applied Mathematical Modelling (2018).
+Liang-Jian Deng, Ting-Zhu Huang, Xi-Le Zhao, and Tai-Xiang Jiang; "A directional global sparse model for single image rain removal." Applied Mathematical Modelling (2018).\
 Corresponding codes are compressed in the file "UGSM_v2.0.zip".
 
          @article{deng2018directional,\
