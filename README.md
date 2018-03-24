@@ -16,21 +16,20 @@ is now vailable at https://arxiv.org/abs/1803.07487.
 
 If you use this code, please cite
 
-         @InProceedings{Jiang_2017_CVPR,\
-         author    = {Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Deng, Liang-Jian and Wang, Yao},\
-         title     = {A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors},\
-         booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},\
-         month     = {July},\
-         pages     = {2818-2827},\
-         doi       = {10.1109/CVPR.2017.301},\
+         @InProceedings{Jiang_2017_CVPR,
+         author    = {Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Deng, Liang-Jian and Wang, Yao},
+         title     = {A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors},
+         booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+         month     = {July},
+         pages     = {2818-2827},
+         doi       = {10.1109/CVPR.2017.301},
          year      = {2017}}
 
-      @article{Jiang2018FastDeRain,\
-         author = {Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Deng, Liang-Jian and Wang, Yao},\
-          title = {FastDeRain: A Novel Video Rain Streak Removal Method Using Directional Gradient Priors},\
-        journal = {ArXiv e-prints},\
-      archivePrefix = "arXiv",\
-         eprint = {1803.07487},\
+      @article{Jiang2018FastDeRain,
+         author = {Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Deng, Liang-Jian and Wang, Yao},
+          title = {FastDeRain: A Novel Video Rain Streak Removal Method Using Directional Gradient Priors},
+        journal = {ArXiv e-prints},
+         eprint = {1803.07487},
            year = {2018},\
            url  = {https://arxiv.org/pdf/1803.07487.pdf}}
 
