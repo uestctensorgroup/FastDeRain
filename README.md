@@ -16,7 +16,7 @@ is now vailable at https://arxiv.org/abs/1803.07487.
 
 If you use this code, please cite
 
-         @InProceedings{Jiang_2017_CVPR,
+      @InProceedings{Jiang_2017_CVPR,
          author    = {Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Deng, Liang-Jian and Wang, Yao},
          title     = {A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors},
          booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
