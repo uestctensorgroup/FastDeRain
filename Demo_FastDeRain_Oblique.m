@@ -45,7 +45,7 @@ MPSNR0 = MPSNR(Rainy,B_clean);
 MSSIM0 = MSSIM(Rainy,B_clean);
 MFSIM0 = MFSIM(Rainy*255,B_clean*255);
 MUQI0 = MUQI(Rainy*255,B_clean*255);
-MVIF0 = MEANVIF(Rainy*255,B_clean*255);
+MVIF0 = MVIF(Rainy*255,B_clean*255);
 MGMSD0 = MGMSD(Rainy,B_clean);
 fprintf('Rainy                          | %.4f   |  %.4f | %.4f | %.4f | %.4f | %.4f \n',PSNR0,MSSIM0 ,MFSIM0,MVIF0,MUQI0,MGMSD0);
 
@@ -98,7 +98,7 @@ fprintf('Index                               | PSNR    | MSSIM   | MFSIM   | MVI
     MPSNR1 = MPSNR(B_1c,B_clean);
     MSSIM1 = MSSIM(B_1c,B_clean);
     MFSIM1 = MFSIM(B_1c*255,B_clean*255);
-    MVIF1 = MEANVIF(B_1c*255,B_clean*255);
+    MVIF1 = MVIF(B_1c*255,B_clean*255);
     MUQI1 = MUQI(B_1c*255,B_clean*255);
     MGMSD1 = MGMSD(B_1c,B_clean);
 fprintf('FastDeRain (SHIFT)          | %.4f   |  %.4f | %.4f | %.4f | %.4f | %.4f \n',PSNR1,MSSIM1 ,MFSIM1,MVIF1,MUQI1,MGMSD1);
@@ -139,7 +139,7 @@ PSNR2 = psnr(B_2c(:),B_clean(:),max(B_clean(:)));
 MPSNR2 = MPSNR(B_2c,B_clean);
 MSSIM2 = MSSIM(B_2c,B_clean);
 MFSIM2 = MFSIM(B_2c*255,B_clean*255);
-MVIF2 = MEANVIF(B_2c*255,B_clean*255);
+MVIF2 = MVIF(B_2c*255,B_clean*255);
 MUQI2 = MUQI(B_2c*255,B_clean*255);
 MGMSD2 = MGMSD(B_2c,B_clean);
 
