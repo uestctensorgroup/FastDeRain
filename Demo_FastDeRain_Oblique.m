@@ -98,7 +98,7 @@ fprintf('Index                               | PSNR    | MSSIM   | MFSIM   | MVI
     MPSNR1 = MPSNR(B_1c,B_clean);
     MSSIM1 = MSSIM(B_1c,B_clean);
     MFSIM1 = MFSIM(B_1c*255,B_clean*255);
-    MVIF1 = MEANVIF(B_1c*255,B_clean*255);
+    MVIF1 = MVIF(B_1c*255,B_clean*255);
     MUQI1 = MUQI(B_1c*255,B_clean*255);
     MGMSD1 = MGMSD(B_1c,B_clean);
 fprintf('FastDeRain (SHIFT)          | %.4f   |  %.4f | %.4f | %.4f | %.4f | %.4f \n',PSNR1,MSSIM1 ,MFSIM1,MVIF1,MUQI1,MGMSD1);
