@@ -37,9 +37,7 @@ state-of-the-art derain methods (video & single image)
   * A novel tensor-based video rain streaks removal approach via utilizing discriminatively intrinsic priors. [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.html)]
   * Fastderain: A novel video rain streak removal method using directional gradient priors. [[paper](https://arxiv.org/abs/1803.07487)][[code](https://github.com/TaiXiangJiang/FastDeRain)] 
 
-* Directional global sparse (Deng *et al.*)
-  * A directional global sparse model for single image rain removal.  [[paper](https://www.sciencedirect.com/science/article/pii/S0307904X18301069)]
- [[code](http://www.escience.cn/system/file?fileId=98760)] [[code](https://github.com/uestctensorgroup/FastDeRain)]
+
 
 * Deep detail network (Fu *et al.* CVPR 2017 IEEE TIP 2017)
   * Removing rain from single images via a deep detail network. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)] [[code](https://xueyangfu.github.io/projects/cvpr2017.html)]
@@ -74,6 +72,10 @@ state-of-the-art derain methods (video & single image)
  
 2018 
 ---
+* Directional global sparse (Deng *et al.* Applied Mathematical Modelling)
+  * A directional global sparse model for single image rain removal.  [[paper](https://www.sciencedirect.com/science/article/pii/S0307904X18301069)]
+ [[code](http://www.escience.cn/system/file?fileId=98760)] 
+
 * Robust Video Content Alignment and Compensation (Chen *et al.* CVPR 2018 spotlight)
   * Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework. [[paper](https://arxiv.org/abs/1803.10433)]
 
