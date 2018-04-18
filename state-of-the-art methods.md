@@ -1,7 +1,7 @@
 state-of-the-art derain methods (video & single image)
 ==
 
-|Author|Tai-Xiang Jiang|
+|Name|Tai-Xiang Jiang|
 |---|---
 |E-mail|Taixiangjiang@gmail.com
 
@@ -104,6 +104,3 @@ state-of-the-art derain methods (video & single image)
  
  
  
- 
-[[PDF]()] [[PDF]()] [[PDF]()] [[PDF]()] [[PDF]()] [[PDF]()]
- [[code]()] [[code]()] [[code]()] [[code]()] [[code]()]
