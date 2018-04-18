@@ -1,7 +1,10 @@
-# FastDeRain
+FastDeRain
+==
 The Matlab implementation and video results of FastDeRain
 
---------------Brief description-------------------------------------------
+
+Brief description
+--
 
 This folder contains the implementation of the algorithm for video rain streaks removal named FastDeRain.
 
