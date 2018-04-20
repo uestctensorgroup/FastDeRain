@@ -1,7 +1,9 @@
 FastDeRain
 ==
 The Matlab implementation and video results of FastDeRain
-
+|Author|Tai-Xiang Jiang|
+|---|---
+|E-mail|Taixiangjiang@gmail.com
 Brief description
 --
 
@@ -60,12 +62,9 @@ Corresponding codes are compressed in the file "UGSM_v3.0.zip".
 
 
 
-(The .p files will be replaced by .m files as soon as possible.)\
 
-Contact
+
+Other
 --
-|Author|Tai-Xiang Jiang|
-|---|---
-|E-mail|Taixiangjiang@gmail.com
-
+(The .p files will be replaced by .m files as soon as possible.)\
 Date: 03/03/2018
