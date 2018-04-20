@@ -7,12 +7,11 @@ Brief description
 
 This folder contains the implementation of the algorithm for video rain streaks removal named FastDeRain.
 
-### Files:
-
-|Demo_FastDerain.m|Demo of FastDeRain, implemented on CPU|
+### Main files:
+|File name|Description|
 |---|---|
+|Demo_FastDerain.m|Demo of FastDeRain, implemented on CPU|
 |Demo_FastDerain_GPU_version.m|Demo of FastDeRain, implemented on GPU|
-|---|---
 |Demo_FastDerain_Oblique.m|Demo of FastDeRain for oblique rain streaks, implemented on CPU|
 
 Refference
