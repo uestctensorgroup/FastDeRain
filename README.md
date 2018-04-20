@@ -12,12 +12,12 @@ Refference
 --
 An early material of the this menthod is:\
 Tai-Xiang Jiang, Ting-Zhu Huang, Xi-Le Zhao, Liang-Jian Deng, Yao Wang; ''A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors'' The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 4057-4066\
-[[PDF(http://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.pdf)]] [[PDF(http://ieeexplore.ieee.org/document/8099784/ )]]
+[[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.pdf)]
 
 The preprint of the extended journal version:\
 Tai-Xiang Jiang, Ting-Zhu Huang, Xi-Le Zhao, Liang-Jian Deng, Yao Wang; “Fastderain: A novel video rain streak removal method using
-directional gradient priors,” ArXiv e-prints, 2018.\
-is now vailable at https://arxiv.org/abs/1803.07487. 
+directional gradient priors,” ArXiv e-prints, 2018.
+[[arXiv]( https://arxiv.org/abs/1803.07487)]  [[PDF]( https://arxiv.org/pdf/1803.07487)]  
 
 If you use this code, please cite
 
