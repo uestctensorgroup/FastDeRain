@@ -76,7 +76,7 @@ state-of-the-art derain methods (video & single image)
  [[code](http://www.escience.cn/system/file?fileId=98760)]  [[Deng's homepage](http://www.escience.cn/people/dengliangjian/index.html)]
 
 * Robust Video Content Alignment and Compensation (Chen *et al.* CVPR 2018 spotlight)
-  * Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework. [[paper](https://arxiv.org/abs/1803.10433)]  [[GIT (dataset available)](https://github.com/hotndy/SPAC-SupplementaryMaterials)] 
+  * Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework. [[paper](https://arxiv.org/abs/1803.10433)]  [[author's GIT (dataset available)](https://github.com/hotndy/SPAC-SupplementaryMaterials)] 
 
 * Decorrelate in gradient domain (Du *et al.* Pattern Recognition 2018)
   * Single image deraining via decorrelating the rain streaks and background scene in gradient domain.   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320318300700)]
