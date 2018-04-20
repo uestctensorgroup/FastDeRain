@@ -72,7 +72,7 @@ state-of-the-art derain methods (video & single image)
 2018 
 ---
 * Directional global sparse (Deng *et al.* Applied Mathematical Modelling)
-  * 'A directional global sparse model for single image rain removal.'  [[paper](https://www.sciencedirect.com/science/article/pii/S0307904X18301069)]
+  * `A directional global sparse model for single image rain removal.`  [[paper](https://www.sciencedirect.com/science/article/pii/S0307904X18301069)]
  [[code](http://www.escience.cn/system/file?fileId=98760)]  [[Deng's homepage](http://www.escience.cn/people/dengliangjian/index.html)]
 
 * Robust Video Content Alignment and Compensation (Chen *et al.* CVPR 2018 spotlight)
