@@ -90,7 +90,7 @@ state-of-the-art derain methods (video & single image)
  [[Ren's homepage](https://sites.google.com/site/csrendw/home)]
 
 * Multiscale convolutional sparse coding (Li *et al.* CVPR 2018)
-  * Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding. [paper TBA]  [[Li's git (code TBA)](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)]
+  * Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding. [[paper](https://pan.baidu.com/s/1iiRr7ns8rD7sFmvRFcxcvw)]  [[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)] [[google site](https://sites.google.com/view/cvpr-anonymity)]
  
 * Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos. (Liu *et al.* CVPR 2018)
   [paper TBA]
