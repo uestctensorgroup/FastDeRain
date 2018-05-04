@@ -98,6 +98,7 @@ state-of-the-art derain methods (video & single image)
 * Attentive GAN (Rui *et al.* CVPR 2018 spotlight)
   * Attentive Generative Adversarial Network for Raindrop Removal from a Single Image.  [[paper](https://arxiv.org/abs/1711.10098)]
 [[Rui's homepage (code TBA)](https://rui1996.github.io/)]  [[project](https://rui1996.github.io/raindrop/raindrop_removal.html)]
+  (tips: this research focuses on reducing the effets form the adherent rain drops instead of rain streaks removal)
 
 * Multi-stream Dense Network (Zhang *et al.* CVPR 2018
   * Density-aware Single Image De-raining using a Multi-stream Dense Network. [[paper](https://arxiv.org/abs/1802.07412)] [[code](https://github.com/hezhangsprinter/DID-MDN)]
