@@ -38,10 +38,12 @@ state-of-the-art derain methods (video & single image)
   * `Fastderain: A novel video rain streak removal method using directional gradient priors.` [[`paper`](https://arxiv.org/abs/1803.07487)][[`code`](https://github.com/TaiXiangJiang/FastDeRain)] 
 
 
-* Deep detail network (Fu *et al.* CVPR 2017 IEEE TIP 2017)
+* Deep detail network (DDN) (Fu *et al.* CVPR 2017 IEEE TIP 2017)
   * Removing rain from single images via a deep detail network. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)] [[code](https://xueyangfu.github.io/projects/cvpr2017.html)]
+ 
+* CNN (Fu *et al.* IEEE TIP 2017)
   * Clearing the skies: A deep network architecture for single-image rain removal. [[paper](https://ieeexplore.ieee.org/abstract/document/7893758/)] [[code](https://xueyangfu.github.io/projects/tip2017.html)] 
-
+  
 * Conditional GAN (Zhang *et al.* arXiv 2017)
   * Image De-raining Using a Conditional Generative Adversarial Network. [[paper](https://arxiv.org/abs/1701.05957)] [[code](https://github.com/hezhangsprinter/ID-CGAN)] [[Project](http://www.rci.rutgers.edu/~vmp93/index_ImageDeRaining.html)]
   
