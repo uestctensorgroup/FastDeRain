@@ -33,8 +33,8 @@ state-of-the-art derain methods (video & single image)
 * Multiscale CSC
     * Li, Minghan, Qi Xie, Qian Zhao, Wei Wei, Shuhang Gu, Jing Tao, Deyu Meng. *Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding*." **CVPR 2018**[[paper](https://pan.baidu.com/s/1iiRr7ns8rD7sFmvRFcxcvw)]  [[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)] [[google site](https://sites.google.com/view/cvpr-anonymity)][[youtube](https://www.youtube.com/watch?v=tYHX7q0yK4M)]
   
-* Directional global sparse 
-    * Deng, Liang-Jian, Ting-Zhu Huang, Xi-Le Zhao, and Tai-Xiang Jiang. "A directional global sparse model for single image rain removal." **Applied Mathematical Modelling** 59 (2018): 662-679.  [[paper](https://www.sciencedirect.com/science/article/pii/S0307904X18301069)]
+* Directional global sparse
+  * Deng, Liang-Jian, Ting-Zhu Huang, Xi-Le Zhao, and Tai-Xiang Jiang. "A directional global sparse model for single image rain removal." **Applied Mathematical Modelling** 59 (2018): 662-679.  [[paper](https://www.sciencedirect.com/science/article/pii/S0307904X18301069)]
  [[code](http://www.escience.cn/system/file?fileId=98760)]  [[Deng's homepage](http://www.escience.cn/people/dengliangjian/index.html)]
 (*tip: I am the last author, and your can also find the implemention in this repository*)
 
