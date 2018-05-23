@@ -30,16 +30,16 @@ state-of-the-art derain methods (video & single image)
 * Multi-stream Dense Network 
   * Zhang, He, and Vishal M. Patel. "*Density-aware Single Image De-raining using a Multi-stream Dense Network*." **CVPR 2018** [[paper](https://arxiv.org/abs/1802.07412)] [[code](https://github.com/hezhangsprinter/DID-MDN)]
 
-* Multiscale convolutional sparse coding
-  * Li, Minghan, Qi Xie, Qian Zhao, Wei Wei, Shuhang Gu, Jing Tao, Deyu Meng. *Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding*." **CVPR 2018**[[paper](https://pan.baidu.com/s/1iiRr7ns8rD7sFmvRFcxcvw)]  [[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)] [[google site](https://sites.google.com/view/cvpr-anonymity)][[youtube](https://www.youtube.com/watch?v=tYHX7q0yK4M)]
+* Multiscale CSC
+  * Li, Minghan, Qi Xie, Qian Zhao, Wei Wei, Shuhang Gu, Jing Tao, Deyu Meng. *Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding*." **CVPR 2018**[[paper](https://pan.baidu.com/s/1iiRr7ns8rD7sFmvRFcxcvw)]  [[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)] [[google site](https://sites.google.com/view/cvpr-anonymity)][[youtube](https://www.youtube.com/watch?v=tYHX7q0yK4M)]
   
 * Directional global sparse 
     * Deng, Liang-Jian, Ting-Zhu Huang, Xi-Le Zhao, and Tai-Xiang Jiang. "A directional global sparse model for single image rain removal." **Applied Mathematical Modelling** 59 (2018): 662-679.  [[paper](https://www.sciencedirect.com/science/article/pii/S0307904X18301069)]
  [[code](http://www.escience.cn/system/file?fileId=98760)]  [[Deng's homepage](http://www.escience.cn/people/dengliangjian/index.html)]
 (*tip: I am the last author, and your can also find the implemention in this repository*)
 
-* Decorrelate in gradient domain (Du *et al.* Pattern Recognition 2018)
-  * Single image deraining via decorrelating the rain streaks and background scene in gradient domain.   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320318300700)]
+* Decorrelate in gradient domain
+  * Du, Shuangli, Yiguang Liu, Mao Ye, Zhenyu Xu, Jie Li, and Jianguo Liu. "*Single image deraining via decorrelating the rain streaks and background scene in gradient domain*." **Pattern Recognition** 79 (2018): 303-317. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320318300700)]
   
 * Deep Decomposition-Composition Network (Li *et al.* ArXiv 2018)
   * Fast Single Image Rain Removal via a Deep Decomposition-Composition Network.  [[paper](https://arxiv.org/abs/1804.02688)]
