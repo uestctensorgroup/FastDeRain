@@ -1,6 +1,6 @@
 state-of-the-art derain methods (video & single image)
 ==
-
+Contact: 
 |Name|Tai-Xiang Jiang|
 |---|---
 |E-mail|Taixiangjiang@gmail.com
@@ -21,11 +21,11 @@ state-of-the-art derain methods (video & single image)
   * *Robust Video Content Alignment and Compensation for Clear Vision Through the Rain* [[Extended journal version (Maybe)](https://arxiv.org/abs/1804.09555)]
 
 * RNN (*I'm not sure*)
-    * Jiaying Liu, Wenhan Yang, Shuai Yang, Zongming Guo. "*Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos.*" **CVPR 2018** [paper TBA][[Prof. Jiaying Liu's homepage](http://www.icst.pku.edu.cn/struct/people/liujiaying.html)]
+    * Liu, Jiaying, Wenhan Yang, Shuai Yang, Zongming Guo. "*Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos.*" **CVPR 2018** [paper TBA][[Prof. Jiaying Liu's homepage](http://www.icst.pku.edu.cn/struct/people/liujiaying.html)]
   
 * Attentive GAN
     * Qian, Rui, Robby T. Tan, Wenhan Yang, Jiajun Su, and Jiaying Liu. "*Attentive Generative Adversarial Network for Raindrop Removal from a Single Image*." **CVPR 2018 spotlight**  [[paper](https://arxiv.org/abs/1711.10098)]
-[[Rui's homepage (code TBA)](https://rui1996.github.io/)]  [[project](https://rui1996.github.io/raindrop/raindrop_removal.html)]
+[[Dr. Rui Qian's homepage (code TBA)](https://rui1996.github.io/)]  [[project](https://rui1996.github.io/raindrop/raindrop_removal.html)]
   (*tips: this research focuses on reducing the effets form the adherent rain drops instead of rain streaks removal*)
 
 * Multi-stream Dense Network 
