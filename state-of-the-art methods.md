@@ -8,7 +8,7 @@ state-of-the-art derain methods (video & single image)
 2018
 --
 *  Lightweight Pyramid Networks 
-  * Fu, Xueyang, Borong Liang, Yue Huang, Xinghao Ding, and John Paisley. "Lightweight Pyramid Networks for Image Deraining." arXiv preprint arXiv:1805.06173 (2018).[[ArXiv](https://arxiv.org/abs/1805.06173)]  [[Fu's homepage](https://xueyangfu.github.io/)]
+   * Fu, Xueyang, Borong Liang, Yue Huang, Xinghao Ding, and John Paisley. "Lightweight Pyramid Networks for Image Deraining." arXiv preprint arXiv:1805.06173 (2018).[[ArXiv](https://arxiv.org/abs/1805.06173)]  [[Fu's homepage](https://xueyangfu.github.io/)]
   
 * Residual-Guide feature fusion network
   * Fan, Zhiwen, Huafeng Wu, Xueyang Fu, Yue Hunag, and Xinghao Ding. "Residual-Guide Feature Fusion Network for Single Image Deraining." arXiv preprint arXiv:1804.07493 (2018).[[Arxiv](https://arxiv.org/abs/1804.07493)]
