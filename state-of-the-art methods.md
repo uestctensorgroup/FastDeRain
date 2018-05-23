@@ -5,7 +5,8 @@ state-of-the-art derain methods (video & single image)
 |---|---
 |E-mail|Taixiangjiang@gmail.com
 
-
+2018
+--
 * Jinshan Pan, Sifei Liu, Jiawei Zhang, Yang Liu, Jimmy Ren, Zechao Li, Jinhui Tang, Huchuan Lu, Yu-Wing Tai, and Ming-Hsuan Yang, "Learning Dual Convolutional Neural Networks for Low-Level Vision", IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018. [[paper](http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_dual_cnn.pdf)] [[project (trained model and codes available](https://sites.google.com/site/jspanhomepage/dualcnn)]
 
 * Robust Video Content Alignment and Compensation (Chen *et al.* CVPR 2018 spotlight)
