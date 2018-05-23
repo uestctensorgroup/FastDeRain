@@ -8,10 +8,10 @@ state-of-the-art derain methods (video & single image)
 2018
 --
 *  Lightweight Pyramid Networks 
-   * Fu, Xueyang, Borong Liang, Yue Huang, Xinghao Ding, and John Paisley. "*Lightweight Pyramid Networks for Image Deraining*." ***ArXiv*** preprint arXiv:1805.06173 .[[ArXiv](https://arxiv.org/abs/1805.06173)]  [[Dr. Fu's homepage](https://xueyangfu.github.io/)]
+   * Fu, Xueyang, Borong Liang, Yue Huang, Xinghao Ding, and John Paisley. "*Lightweight Pyramid Networks for Image Deraining*." **ArXiv** preprint arXiv:1805.06173 .[[ArXiv](https://arxiv.org/abs/1805.06173)]  [[Dr. Fu's homepage](https://xueyangfu.github.io/)]
   
 * Residual-Guide feature fusion network
-  * Fan, Zhiwen, Huafeng Wu, Xueyang Fu, Yue Hunag, and Xinghao Ding. "*Residual-Guide Feature Fusion Network for Single Image Deraining*." ***ArXiv*** preprint arXiv:1804.07493 .[[Arxiv](https://arxiv.org/abs/1804.07493)]
+  * Fan, Zhiwen, Huafeng Wu, Xueyang Fu, Yue Hunag, and Xinghao Ding. "*Residual-Guide Feature Fusion Network for Single Image Deraining*." **ArXiv** preprint arXiv:1804.07493 .[[Arxiv](https://arxiv.org/abs/1804.07493)]
   
 * Dual CNN (structure and detail) 
   * Jinshan Pan, Sifei Liu, Jiawei Zhang, Yang Liu, Jimmy Ren, Zechao Li, Jinhui Tang, Huchuan Lu, Yu-Wing Tai, and Ming-Hsuan Yang, "*Learning Dual Convolutional Neural Networks for Low-Level Vision*." **CVPR 2018**. [[paper](http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_dual_cnn.pdf)] [[project (trained model and codes available](https://sites.google.com/site/jspanhomepage/dualcnn)]
@@ -30,8 +30,8 @@ state-of-the-art derain methods (video & single image)
 * Multi-stream Dense Network 
   * Zhang, He, and Vishal M. Patel. "*Density-aware Single Image De-raining using a Multi-stream Dense Network*." **CVPR 2018** [[paper](https://arxiv.org/abs/1802.07412)] [[code](https://github.com/hezhangsprinter/DID-MDN)]
 
-* Multiscale convolutional sparse coding (Li *et al.* CVPR 2018)
-  * Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding. [[paper](https://pan.baidu.com/s/1iiRr7ns8rD7sFmvRFcxcvw)]  [[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)] [[google site](https://sites.google.com/view/cvpr-anonymity)]
+* Multiscale convolutional sparse coding
+  * Li, Minghan, Qi Xie, Qian Zhao, Wei Wei, Shuhang Gu, Jing Tao, Deyu Meng. *Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding*." **CVPR 2018**[[paper](https://pan.baidu.com/s/1iiRr7ns8rD7sFmvRFcxcvw)]  [[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)] [[google site](https://sites.google.com/view/cvpr-anonymity)][[youtube](https://www.youtube.com/watch?v=tYHX7q0yK4M)]
   
 * Directional global sparse (Deng *et al.* Applied Mathematical Modelling)
   * `A directional global sparse model for single image rain removal.`  [[paper](https://www.sciencedirect.com/science/article/pii/S0307904X18301069)]
