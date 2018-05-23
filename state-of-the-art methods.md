@@ -41,7 +41,7 @@ state-of-the-art derain methods (video & single image)
 
 * Decorrelate in gradient domain
   * Du, Shuangli, Yiguang Liu, Mao Ye, Zhenyu Xu, Jie Li, and Jianguo Liu. "*Single image deraining via decorrelating the rain streaks and background scene in gradient domain*." **Pattern Recognition** 79 (2018): 303-317. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320318300700)]
-  
+
 * Deep Decomposition-Composition Network (Li *et al.* ArXiv 2018)
   * Fast Single Image Rain Removal via a Deep Decomposition-Composition Network.  [[paper](https://arxiv.org/abs/1804.02688)]
  [[Guo xiao jie's homepage (code TBA)](https://sites.google.com/view/xjguo/homepage)]
