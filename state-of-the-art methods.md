@@ -44,7 +44,7 @@ state-of-the-art derain methods (video & single image)
 
 * Deep Decomposition-Composition Network (Li *et al.* ArXiv 2018)
   * Fast Single Image Rain Removal via a Deep Decomposition-Composition Network.  [[paper](https://arxiv.org/abs/1804.02688)]
- [[Guo xiao jie's homepage (code TBA)](https://sites.google.com/view/xjguo/homepage)]
+ [[ProfGuo xiao jie's homepage (code TBA)](https://sites.google.com/view/xjguo/homepage)]
  
 * Simultaneous Fidelity and Regularization Learning (Ren *et al.* ArXiv 2018)
   * Simultaneous Fidelity and Regularization Learning for Image Restoration. [[paper](https://arxiv.org/abs/1804.04522)]
