@@ -8,10 +8,10 @@ state-of-the-art derain methods (video & single image)
 2018
 --
 *  Lightweight Pyramid Networks 
-   * Fu, Xueyang, Borong Liang, Yue Huang, Xinghao Ding, and John Paisley. "*Lightweight Pyramid Networks for Image Deraining*." ***arXiv preprint arXiv:1805.06173 ***.[[ArXiv](https://arxiv.org/abs/1805.06173)]  [[Dr. Fu's homepage](https://xueyangfu.github.io/)]
+   * Fu, Xueyang, Borong Liang, Yue Huang, Xinghao Ding, and John Paisley. "*Lightweight Pyramid Networks for Image Deraining*." ***ArXiv*** preprint arXiv:1805.06173 .[[ArXiv](https://arxiv.org/abs/1805.06173)]  [[Dr. Fu's homepage](https://xueyangfu.github.io/)]
   
 * Residual-Guide feature fusion network
-  * Fan, Zhiwen, Huafeng Wu, Xueyang Fu, Yue Hunag, and Xinghao Ding. "*Residual-Guide Feature Fusion Network for Single Image Deraining*." ***arXiv preprint arXiv:1804.07493 ***.[[Arxiv](https://arxiv.org/abs/1804.07493)]
+  * Fan, Zhiwen, Huafeng Wu, Xueyang Fu, Yue Hunag, and Xinghao Ding. "*Residual-Guide Feature Fusion Network for Single Image Deraining*." ***ArXiv*** preprint arXiv:1804.07493 .[[Arxiv](https://arxiv.org/abs/1804.07493)]
   
 * Dual CNN (structure and detail) 
   * Jinshan Pan, Sifei Liu, Jiawei Zhang, Yang Liu, Jimmy Ren, Zechao Li, Jinhui Tang, Huchuan Lu, Yu-Wing Tai, and Ming-Hsuan Yang, "*Learning Dual Convolutional Neural Networks for Low-Level Vision*." **CVPR 2018**. [[paper](http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_dual_cnn.pdf)] [[project (trained model and codes available](https://sites.google.com/site/jspanhomepage/dualcnn)]
