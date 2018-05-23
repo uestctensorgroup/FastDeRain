@@ -8,28 +8,27 @@ state-of-the-art derain methods (video & single image)
 2018
 --
 *  Lightweight Pyramid Networks 
-   * Fu, Xueyang, Borong Liang, Yue Huang, Xinghao Ding, and John Paisley. "Lightweight Pyramid Networks for Image Deraining." ***arXiv preprint arXiv:1805.06173 ***.[[ArXiv](https://arxiv.org/abs/1805.06173)]  [[Fu's homepage](https://xueyangfu.github.io/)]
+   * Fu, Xueyang, Borong Liang, Yue Huang, Xinghao Ding, and John Paisley. "*Lightweight Pyramid Networks for Image Deraining*." ***arXiv preprint arXiv:1805.06173 ***.[[ArXiv](https://arxiv.org/abs/1805.06173)]  [[Dr. Fu's homepage](https://xueyangfu.github.io/)]
   
 * Residual-Guide feature fusion network
-  * Fan, Zhiwen, Huafeng Wu, Xueyang Fu, Yue Hunag, and Xinghao Ding. "Residual-Guide Feature Fusion Network for Single Image Deraining." ***arXiv preprint arXiv:1804.07493 ***.[[Arxiv](https://arxiv.org/abs/1804.07493)]
+  * Fan, Zhiwen, Huafeng Wu, Xueyang Fu, Yue Hunag, and Xinghao Ding. "*Residual-Guide Feature Fusion Network for Single Image Deraining*." ***arXiv preprint arXiv:1804.07493 ***.[[Arxiv](https://arxiv.org/abs/1804.07493)]
   
 * Dual CNN (structure and detail) 
   * Jinshan Pan, Sifei Liu, Jiawei Zhang, Yang Liu, Jimmy Ren, Zechao Li, Jinhui Tang, Huchuan Lu, Yu-Wing Tai, and Ming-Hsuan Yang, "*Learning Dual Convolutional Neural Networks for Low-Level Vision*." **CVPR 2018**. [[paper](http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_dual_cnn.pdf)] [[project (trained model and codes available](https://sites.google.com/site/jspanhomepage/dualcnn)]
 
 * CNN 
-  * Chen, Jie, Cheen-Hau Tan, Junhui Hou, Lap-Pui Chau, and He Li. "Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework." **CVPR 2018** [[paper](https://arxiv.org/abs/1803.10433)]  [[author's GIT (dataset available)](https://github.com/hotndy/SPAC-SupplementaryMaterials)] 
+  * Chen, Jie, Cheen-Hau Tan, Junhui Hou, Lap-Pui Chau, and He Li. "*Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework*." **CVPR 2018** [[paper](https://arxiv.org/abs/1803.10433)]  [[Dr. Chen's GIT (dataset available)](https://github.com/hotndy/SPAC-SupplementaryMaterials)] [[Prof. Lap-Pui Chau's homepage](http://www.ntu.edu.sg/home/elpchau/)] 
 
-* Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos. (Liu *et al.* CVPR 2018)
-  [paper TBA]
+* RNN (*I'm not sure*)
+    * Jiaying Liu, Wenhan Yang, Shuai Yang, Zongming Guo. "*Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos.*" **CVPR 2018** [paper TBA][[Prof. Jiaying Liu's homepage](http://www.icst.pku.edu.cn/struct/people/liujiaying.html)]
   
-* Attentive GAN (Rui *et al.* CVPR 2018 spotlight)
-  * Attentive Generative Adversarial Network for Raindrop Removal from a Single Image.  [[paper](https://arxiv.org/abs/1711.10098)]
+* Attentive GAN (Rui *et al.* **CVPR 2018 spotlight**)
+  * Qian, Rui, Robby T. Tan, Wenhan Yang, Jiajun Su, and Jiaying Liu. "*Attentive Generative Adversarial Network for Raindrop Removal from a Single Image*." **CVPR 2018 spotlight**  [[paper](https://arxiv.org/abs/1711.10098)]
 [[Rui's homepage (code TBA)](https://rui1996.github.io/)]  [[project](https://rui1996.github.io/raindrop/raindrop_removal.html)]
-  (tips: this research focuses on reducing the effets form the adherent rain drops instead of rain streaks removal)
+  (*tips: this research focuses on reducing the effets form the adherent rain drops instead of rain streaks removal*)
 
-* Multi-stream Dense Network (Zhang *et al.* CVPR 2018
-  * Density-aware Single Image De-raining using a Multi-stream Dense Network. [[paper](https://arxiv.org/abs/1802.07412)] [[code](https://github.com/hezhangsprinter/DID-MDN)]
-
+* Multi-stream Dense Network 
+  * Zhang, He, and Vishal M. Patel. "*Density-aware Single Image De-raining using a Multi-stream Dense Network*." **CVPR 2018** [[paper](https://arxiv.org/abs/1802.07412)] [[code](https://github.com/hezhangsprinter/DID-MDN)]
 
 * Multiscale convolutional sparse coding (Li *et al.* CVPR 2018)
   * Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding. [[paper](https://pan.baidu.com/s/1iiRr7ns8rD7sFmvRFcxcvw)]  [[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)] [[google site](https://sites.google.com/view/cvpr-anonymity)]
