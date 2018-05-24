@@ -37,7 +37,7 @@ Contact:
   
 * Directional global sparse
   * Deng, Liang-Jian, Ting-Zhu Huang, Xi-Le Zhao, and Tai-Xiang Jiang. "A directional global sparse model for single image rain removal." **Applied Mathematical Modelling** 59 (2018): 662-679.  [[paper](https://www.sciencedirect.com/science/article/pii/S0307904X18301069)]
- [[code](http://www.escience.cn/system/file?fileId=98760)]  [[Deng's homepage](http://www.escience.cn/people/dengliangjian/index.html)]
+ [[code](http://www.escience.cn/system/file?fileId=98760)]  [[Dr. Deng's homepage](http://www.escience.cn/people/dengliangjian/index.html)]
 (*tips: I am the last author, and your can also find the implemention in this repository*)
 
 * Decorrelate in gradient domain
@@ -45,7 +45,7 @@ Contact:
 
 * Deep Decomposition-Composition Network (Li *et al.* ArXiv 2018)
   * Fast Single Image Rain Removal via a Deep Decomposition-Composition Network.  [[paper](https://arxiv.org/abs/1804.02688)]
- [[ProfGuo xiao jie's homepage (code TBA)](https://sites.google.com/view/xjguo/homepage)]
+ [[Prof. Guo xiao jie's homepage (code TBA)](https://sites.google.com/view/xjguo/homepage)]
  
 * Simultaneous Fidelity and Regularization Learning (Ren *et al.* ArXiv 2018)
   * Simultaneous Fidelity and Regularization Learning for Image Restoration. [[paper](https://arxiv.org/abs/1804.04522)]
