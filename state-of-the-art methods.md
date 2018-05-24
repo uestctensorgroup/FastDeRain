@@ -82,7 +82,7 @@ Contact:
 
 * Joint Bi-layer Optimization (Zhu *et al.* ICCV 2017)
   * Joint Bi-layer Optimization for Single-image Rain Streak Removal. [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Joint_Bi-Layer_Optimization_ICCV_2017_paper.html)]
- [code]
+ [[Dr. Zhu's homepage](http://appsrv.cse.cuhk.edu.hk/~lzhu/)]
  
 * Matrix decomposition (Ren *et al.* CVPR 2017)
   * Video Desnowing and Deraining Based on Matrix Decomposition. [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Ren_Video_Desnowing_and_CVPR_2017_paper.html)]
