@@ -38,7 +38,7 @@ Contact:
 * Directional global sparse
   * Deng, Liang-Jian, Ting-Zhu Huang, Xi-Le Zhao, and Tai-Xiang Jiang. "A directional global sparse model for single image rain removal." **Applied Mathematical Modelling** 59 (2018): 662-679.  [[paper](https://www.sciencedirect.com/science/article/pii/S0307904X18301069)]
  [[code](http://www.escience.cn/system/file?fileId=98760)]  [[Dr. Deng's homepage](http://www.escience.cn/people/dengliangjian/index.html)]
-(* + tips: I am the last author, and your can also find the implemention in this repository*)
+(* &#x1F538 tips: I am the last author, and your can also find the implemention in this repository*)
 
 * Decorrelate in gradient domain
   * Du, Shuangli, Yiguang Liu, Mao Ye, Zhenyu Xu, Jie Li, and Jianguo Liu. "*Single image deraining via decorrelating the rain streaks and background scene in gradient domain*." **Pattern Recognition** 79 (2018): 303-317. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320318300700)]
