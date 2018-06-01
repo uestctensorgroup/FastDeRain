@@ -9,7 +9,7 @@ Contact:
 2018
 --
 *  Lightweight Pyramid Networks 
-   * Fu, Xueyang, Borong Liang, Yue Huang, Xinghao Ding, and John Paisley. "*Lightweight Pyramid Networks for Image Deraining*." **ArXiv** preprint arXiv:1805.06173 .[[ArXiv](https://arxiv.org/abs/1805.06173)]  [[Dr. Fu's homepage](https://xueyangfu.github.io/)]
+   * Fu, Xueyang, Borong Liang, Yue Huang, Xinghao Ding, and John Paisley. "*Lightweight Pyramid Networks for Image Deraining*." **ArXiv** preprint arXiv:1805.06173 .[[ArXiv](https://arxiv.org/abs/1805.06173)]  [[Dr. Xueyang Fu's homepage](https://xueyangfu.github.io/)]
   
 * Residual-Guide feature fusion network
   * Fan, Zhiwen, Huafeng Wu, Xueyang Fu, Yue Hunag, and Xinghao Ding. "*Residual-Guide Feature Fusion Network for Single Image Deraining*." **ArXiv** preprint arXiv:1804.07493 .[[Arxiv](https://arxiv.org/abs/1804.07493)]
@@ -18,11 +18,11 @@ Contact:
   * Jinshan Pan, Sifei Liu, Jiawei Zhang, Yang Liu, Jimmy Ren, Zechao Li, Jinhui Tang, Huchuan Lu, Yu-Wing Tai, and Ming-Hsuan Yang, "*Learning Dual Convolutional Neural Networks for Low-Level Vision*." **CVPR 2018**. [[paper](http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_dual_cnn.pdf)] [[project (trained model and codes available](https://sites.google.com/site/jspanhomepage/dualcnn)]
 
 * CNN
-  * Chen, Jie, Cheen-Hau Tan, Junhui Hou, Lap-Pui Chau, and He Li. "*Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework*." **CVPR 2018** [[paper](https://arxiv.org/abs/1803.10433)]  [[Dr. Chen's GIT (dataset available)](https://github.com/hotndy/SPAC-SupplementaryMaterials)] [[Prof. Lap-Pui Chau's homepage](http://www.ntu.edu.sg/home/elpchau/)]
+  * Chen, Jie, Cheen-Hau Tan, Junhui Hou, Lap-Pui Chau, and He Li. "*Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework*." **CVPR 2018** [[paper](https://arxiv.org/abs/1803.10433)]  [[Dr. Jie Chen's GIT (dataset available)](https://github.com/hotndy/SPAC-SupplementaryMaterials)] [[Prof. Lap-Pui Chau's homepage](http://www.ntu.edu.sg/home/elpchau/)]
   * *Robust Video Content Alignment and Compensation for Clear Vision Through the Rain* [[ArXiv](https://arxiv.org/abs/1804.09555)](*tips: I guess this is the extended journal version*)
 
 * RNN (*I'm not sure*)
-    * Liu, Jiaying, Wenhan Yang, Shuai Yang, Zongming Guo. "*Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos.*" **CVPR 2018** [paper TBA][[Prof. Jiaying Liu's homepage](http://www.icst.pku.edu.cn/struct/people/liujiaying.html)]
+    * Liu, Jiaying, Wenhan Yang, Shuai Yang, Zongming Guo. "*Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos.*" **CVPR 2018** [paper TBA][[Prof. Jiaying Liu's homepage](http://www.icst.pku.edu.cn/struct/people/liujiaying.html)] [[Dr. Wenhan Yang's homepage](http://www.icst.pku.edu.cn/struct/people/whyang.html)]
   
 * Attentive GAN
     * Qian, Rui, Robby T. Tan, Wenhan Yang, Jiajun Su, and Jiaying Liu. "*Attentive Generative Adversarial Network for Raindrop Removal from a Single Image*." **CVPR 2018 spotlight**  [[paper](https://arxiv.org/abs/1711.10098)]
@@ -30,26 +30,26 @@ Contact:
   (*tips: this research focuses on reducing the effets form the adherent rain drops instead of rain streaks removal*)
 
 * Multi-stream Dense Network 
-  * Zhang, He, and Vishal M. Patel. "*Density-aware Single Image De-raining using a Multi-stream Dense Network*." **CVPR 2018** [[paper](https://arxiv.org/abs/1802.07412)] [[code](https://github.com/hezhangsprinter/DID-MDN)]
+  * Zhang, He, and Vishal M. Patel. "*Density-aware Single Image De-raining using a Multi-stream Dense Network*." **CVPR 2018** [[paper](https://arxiv.org/abs/1802.07412)] [[code](https://github.com/hezhangsprinter/DID-MDN)]  [[Dr. He Zhang's homepage](https://sites.google.com/site/hezhangsprinter/)] 
 
 * Multiscale CSC
-    * Li, Minghan, Qi Xie, Qian Zhao, Wei Wei, Shuhang Gu, Jing Tao, Deyu Meng. *Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding*." **CVPR 2018**[[paper](https://pan.baidu.com/s/1iiRr7ns8rD7sFmvRFcxcvw)]  [[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)] [[google site](https://sites.google.com/view/cvpr-anonymity)][[youtube](https://www.youtube.com/watch?v=tYHX7q0yK4M)]
+    * Li, Minghan, Qi Xie, Qian Zhao, Wei Wei, Shuhang Gu, Jing Tao, Deyu Meng. *Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding*." **CVPR 2018**[[paper](https://pan.baidu.com/s/1iiRr7ns8rD7sFmvRFcxcvw)]  [[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)] [[google site](https://sites.google.com/view/cvpr-anonymity)][[youtube](https://www.youtube.com/watch?v=tYHX7q0yK4M)] 
   
 * Directional global sparse
   * Deng, Liang-Jian, Ting-Zhu Huang, Xi-Le Zhao, and Tai-Xiang Jiang. "A directional global sparse model for single image rain removal." **Applied Mathematical Modelling** 59 (2018): 662-679.  [[paper](https://www.sciencedirect.com/science/article/pii/S0307904X18301069)]
  [[code](http://www.escience.cn/system/file?fileId=98760)]  [[Dr. Deng's homepage](http://www.escience.cn/people/dengliangjian/index.html)]
-(&#x1F538 * tips: I am the last author, and your can also find the implemention in this repository*)
+(*tips: I am the last author, and your can also find the implemention in this repository*)
 
 * Decorrelate in gradient domain
   * Du, Shuangli, Yiguang Liu, Mao Ye, Zhenyu Xu, Jie Li, and Jianguo Liu. "*Single image deraining via decorrelating the rain streaks and background scene in gradient domain*." **Pattern Recognition** 79 (2018): 303-317. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320318300700)]
 
 * Deep Decomposition-Composition Network (Li *et al.* ArXiv 2018)
-  * Fast Single Image Rain Removal via a Deep Decomposition-Composition Network.  [[paper](https://arxiv.org/abs/1804.02688)]
- [[Prof. Guo xiao jie's homepage (code TBA)](https://sites.google.com/view/xjguo/homepage)]
+  * Fast Single Image Rain Removal via a Deep Decomposition-Composition Network. Li, Siyuan, Wenqi Ren, Jiawan Zhang, Jinke Yu, and Xiaojie Guo.  [[paper](https://arxiv.org/abs/1804.02688)]
+ [[Prof. Xiaojie Guo's homepage (code TBA)](https://sites.google.com/view/xjguo/homepage)] [[Prof. Wenqi Ren's homepage (code TBA)](https://sites.google.com/view/xjguo/homepage)]
  
 * Simultaneous Fidelity and Regularization Learning (Ren *et al.* ArXiv 2018)
   * Simultaneous Fidelity and Regularization Learning for Image Restoration. [[paper](https://arxiv.org/abs/1804.04522)]
- [[Ren's homepage](https://sites.google.com/site/csrendw/home)]
+ [[Ren's homepage](https://sites.google.com/site/csrendw/home)] 
 
 2017
 --
@@ -71,7 +71,7 @@ Contact:
   * Image De-raining Using a Conditional Generative Adversarial Network. [[paper](https://arxiv.org/abs/1701.05957)] [[code](https://github.com/hezhangsprinter/ID-CGAN)] [[Project](http://www.rci.rutgers.edu/~vmp93/index_ImageDeRaining.html)]
   
 * Deep Joint Rain Detection and Removal (Yang *et al.* CVPR 2017)
-  * Deep joint rain detection and removal from a single image. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] [[project (codes data results)](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)]
+  * Deep joint rain detection and removal from a single image. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] [[project (codes data results)](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)] [[Dr. Wenhan Yang's homepage](http://www.icst.pku.edu.cn/struct/people/whyang.html)]
   
 * Error-optimized sparse representation (Chen *et al.* IEEE TIE 2017)
   * Error-optimized sparse representation for single image rain removal. [[paper](https://ieeexplore.ieee.org/abstract/document/7878618/)]
@@ -82,7 +82,7 @@ Contact:
 
 * Joint Bi-layer Optimization (Zhu *et al.* ICCV 2017)
   * Joint Bi-layer Optimization for Single-image Rain Streak Removal. [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Joint_Bi-Layer_Optimization_ICCV_2017_paper.html)]
- [[Dr. Zhu's homepage](http://appsrv.cse.cuhk.edu.hk/~lzhu/)]
+ [[Dr. Zhu's homepage](http://appsrv.cse.cuhk.edu.hk/~lzhu/)] 
  
 * Matrix decomposition (Ren *et al.* CVPR 2017)
   * Video Desnowing and Deraining Based on Matrix Decomposition. [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Ren_Video_Desnowing_and_CVPR_2017_paper.html)]
