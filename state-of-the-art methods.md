@@ -70,7 +70,7 @@ Contact:
 * Conditional GAN (Zhang *et al.* arXiv 2017)
   * Image De-raining Using a Conditional Generative Adversarial Network. [[paper](https://arxiv.org/abs/1701.05957)] [[code](https://github.com/hezhangsprinter/ID-CGAN)] [[Project](http://www.rci.rutgers.edu/~vmp93/index_ImageDeRaining.html)]
   
-* Deep Joint Rain Detection and Removal (Yang *et al.* CVPR 2017)
+* JODER (Yang *et al.* CVPR 2017)
   * Deep joint rain detection and removal from a single image. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] [[project (codes data results)](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)] [[Dr. Wenhan Yang's homepage](http://www.icst.pku.edu.cn/struct/people/whyang.html)]
   
 * Error-optimized sparse representation (Chen *et al.* IEEE TIE 2017)
