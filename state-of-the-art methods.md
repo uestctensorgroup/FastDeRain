@@ -18,11 +18,11 @@ Contact:
   * Jinshan Pan, Sifei Liu, Jiawei Zhang, Yang Liu, Jimmy Ren, Zechao Li, Jinhui Tang, Huchuan Lu, Yu-Wing Tai, and Ming-Hsuan Yang, "*Learning Dual Convolutional Neural Networks for Low-Level Vision*." **CVPR 2018**. [[paper](http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_dual_cnn.pdf)] [[project (trained model and codes available](https://sites.google.com/site/jspanhomepage/dualcnn)]
 
 * CNN
-  * Chen, Jie, Cheen-Hau Tan, Junhui Hou, Lap-Pui Chau, and He Li. "*Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework*." **CVPR 2018** [[paper](https://arxiv.org/abs/1803.10433)]  [[Dr. Jie Chen's GIT (dataset available)](https://github.com/hotndy/SPAC-SupplementaryMaterials)] [[Prof. Lap-Pui Chau's homepage](http://www.ntu.edu.sg/home/elpchau/)]
+  * Chen, Jie, Cheen-Hau Tan, Junhui Hou, Lap-Pui Chau, and He Li. "*Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework*." **CVPR 2018** [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Chen_Robust_Video_content_cvpr_2018_paper.html)]  [[Dr. Jie Chen's GIT (dataset available)](https://github.com/hotndy/SPAC-SupplementaryMaterials)] [[Prof. Lap-Pui Chau's homepage](http://www.ntu.edu.sg/home/elpchau/)]
   * *Robust Video Content Alignment and Compensation for Clear Vision Through the Rain* [[ArXiv](https://arxiv.org/abs/1804.09555)](*tips: I guess this is the extended journal version*)
 
 * RNN (*I'm not sure*)
-    * Liu, Jiaying, Wenhan Yang, Shuai Yang, Zongming Guo. "*Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos.*" **CVPR 2018** [paper TBA][[Prof. Jiaying Liu's homepage](http://www.icst.pku.edu.cn/struct/people/liujiaying.html)] [[Dr. Wenhan Yang's homepage](http://www.icst.pku.edu.cn/struct/people/whyang.html)]
+    * Liu, Jiaying, Wenhan Yang, Shuai Yang, Zongming Guo. "*Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos.*" **CVPR 2018** [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Liu_Erase_or_Fill_CVPR_2018_paper.html)][[Prof. Jiaying Liu's homepage](http://www.icst.pku.edu.cn/struct/people/liujiaying.html)] [[Dr. Wenhan Yang's homepage](http://www.icst.pku.edu.cn/struct/people/whyang.html)]
   
 * Attentive GAN
     * Qian, Rui, Robby T. Tan, Wenhan Yang, Jiajun Su, and Jiaying Liu. "*Attentive Generative Adversarial Network for Raindrop Removal from a Single Image*." **CVPR 2018 spotlight**  [[paper](https://arxiv.org/abs/1711.10098)]
@@ -30,7 +30,7 @@ Contact:
   (*tips: this research focuses on reducing the effets form the adherent rain drops instead of rain streaks removal*)
 
 * Multi-stream Dense Network 
-  * Zhang, He, and Vishal M. Patel. "*Density-aware Single Image De-raining using a Multi-stream Dense Network*." **CVPR 2018** [[paper](https://arxiv.org/abs/1802.07412)] [[code](https://github.com/hezhangsprinter/DID-MDN)]  [[Dr. He Zhang's homepage](https://sites.google.com/site/hezhangsprinter/)] 
+  * Zhang, He, and Vishal M. Patel. "*Density-aware Single Image De-raining using a Multi-stream Dense Network*." **CVPR 2018** [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Density-Aware_Single_Image_CVPR_2018_paper.html)] [[code](https://github.com/hezhangsprinter/DID-MDN)]  [[Dr. He Zhang's homepage](https://sites.google.com/site/hezhangsprinter/)] 
 
 * Multiscale CSC
     * Li, Minghan, Qi Xie, Qian Zhao, Wei Wei, Shuhang Gu, Jing Tao, Deyu Meng. *Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding*." **CVPR 2018**[[paper](https://pan.baidu.com/s/1iiRr7ns8rD7sFmvRFcxcvw)]  [[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)] [[google site](https://sites.google.com/view/cvpr-anonymity)][[youtube](https://www.youtube.com/watch?v=tYHX7q0yK4M)] 
