@@ -8,6 +8,9 @@ Contact:
 
 2018
 --
+
+* Semi-supervised CNN for Single Image Rain Removal, Wei Wei, Deyu Meng, Qian Zhao, Zongben Xu  [[paper](https://arxiv.org/abs/1807.11078)] 
+
 *  Lightweight Pyramid Networks 
    * Fu, Xueyang, Borong Liang, Yue Huang, Xinghao Ding, and John Paisley. "*Lightweight Pyramid Networks for Image Deraining*." **ArXiv** preprint arXiv:1805.06173 .[[ArXiv](https://arxiv.org/abs/1805.06173)]  [[Dr. Xueyang Fu's homepage](https://xueyangfu.github.io/)]
   
