@@ -9,6 +9,8 @@ Contact:
 2018
 --
 
+* cycle GAN, Pu, Jinchuan and Chen, Xuesong and Zhang, Li and Zhou, Qiuhao and Zhao, Yong [[paper](https://ieeexplore.ieee.org/abstract/document/8397790/)]
+
 * Semi-supervised CNN for Single Image Rain Removal, Wei Wei, Deyu Meng, Qian Zhao, Zongben Xu  [[paper](https://arxiv.org/abs/1807.11078)] 
 
 *  Lightweight Pyramid Networks 
