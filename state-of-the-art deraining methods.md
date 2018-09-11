@@ -4,7 +4,7 @@ Contact:
 
 |Name|Tai-Xiang Jiang|
 |---|---
-|E-mail|Taixiangjiang@gmail.com
+|E-mail|taixiangjiang@gmail.com
 
 2018
 --
