@@ -1,4 +1,4 @@
-state-of-the-art derain methods (video & single image)
+state-of-the-art deraining methods (video & single image)
 ==
 Contact: 
 
