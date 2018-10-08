@@ -33,7 +33,7 @@ If you use this code, please cite
       @InProceedings{Jiang_2017_CVPR,
          author    = {Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Deng, Liang-Jian and Wang, Yao},
          title     = {A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors},
-         booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+         booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
          month     = {July},
          pages     = {2818-2827},
          doi       = {10.1109/CVPR.2017.301},
