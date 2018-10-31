@@ -42,10 +42,9 @@ If you use this code, please cite
       @article{Jiang2018FastDeRain,
          author    = {Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Deng, Liang-Jian and Wang, Yao},
          title     = {FastDeRain: A Novel Video Rain Streak Removal Method Using Directional Gradient Priors},
-         journal   = {ArXiv e-prints},
-         eprint    = {1803.07487},
+         journal   = {IEEE Transactions on Image Processing},
          year      = {2018},
-         url       = {https://arxiv.org/pdf/1803.07487.pdf}}
+         notes     = {accepted}}
 
 Meanwhile, our method for single image rain streaks removal are detailed in this article:\
 Liang-Jian Deng, Ting-Zhu Huang, Xi-Le Zhao, and Tai-Xiang Jiang; "A directional global sparse model for single image rain removal." Applied Mathematical Modelling (2018).\
