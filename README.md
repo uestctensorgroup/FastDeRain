@@ -1,7 +1,7 @@
 FastDeRain
 ==
 The Matlab implementation and video results of FastDeRain:\
-T.-X. Jiang, T.-Z. Huang, X.-L. Zhao, L.-J. Deng, and Y.Wang. FastDeRain: A novel video rain streak removal method using directional gradient priors, IEEE Transactions on Image Processing, 2018. doi: 10.1109/TIP.2018.2880512.
+T.-X. Jiang, T.-Z. Huang, X.-L. Zhao, L.-J. Deng, and Y.Wang. FastDeRain: A novel video rain streak removal method using directional gradient priors, IEEE Transactions on Image Processing, 2018. doi: 10.1109/TIP.2018.2880512. [[pdf]]
 
 
 
@@ -22,6 +22,8 @@ This folder contains the implementation of the algorithm for video rain streaks 
 |Demo_FastDerain_GPU_version.m|Demo of FastDeRain, implemented on **GPU**|
 |Demo_FastDerain_Oblique.m|Demo of FastDeRain for **oblique rain streaks**, implemented on **GPU**|
 
+
+Meanwhile, this folder also conrtains the code of our conference paper
 Refference
 --
 An early material of the this menthod is:\
