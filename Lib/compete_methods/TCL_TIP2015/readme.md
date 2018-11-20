@@ -7,6 +7,7 @@ Then install it with the instructions. \
 We sincerely appreciate the generous sharing of the code form the authors of this paper.
 
 For simplify the comparison with our FastDeRain, we make some minor changes with the files:\
-rainmap_ext       -> rainmap_ext_new\
-rain_removal_lra  -> rain_removal_lra_new\
-blurring          -> blurring_new
+|---|---|---|
+|rainmap_ext      |-> |rainmap_ext_new|
+|rain_removal_lra |-> |rain_removal_lra_new|
+|blurring         |-> |blurring_new|
