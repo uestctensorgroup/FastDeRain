@@ -1,5 +1,9 @@
 FastDeRain
 ==
+|Author|Tai-Xiang Jiang|
+|---|---
+|E-mail|Taixiangjiang@gmail.com
+
 The Matlab implementation of FastDeRain:\
 **FastDeRain: A novel video rain streak removal method using directional gradient priors**, ***IEEE Transactions on Image Processing***, 2018. [[pdf](https://ieeexplore.ieee.org/document/8531762/)]
 
@@ -10,9 +14,6 @@ and DIP:
 
 
 
-|Author|Tai-Xiang Jiang|
-|---|---
-|E-mail|Taixiangjiang@gmail.com
 
 Brief description
 --
