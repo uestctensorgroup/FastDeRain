@@ -15,7 +15,7 @@ Brief description
 
 This folder contains the implementation of the algorithm for video rain streaks removal named FastDeRain.
 
-### Main files:
+### Main file:
 |File name|Description|
 |---|---|
 |Demo.m|Demo of FastDeRain and DIP, implemented on **GPU**|
