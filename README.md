@@ -1,11 +1,11 @@
 FastDeRain
 ==
 The Matlab implementation of FastDeRain:\
-**FastDeRain: A novel video rain streak removal method using directional gradient priors**, ***IEEE Transactions on Image Processing***, 2018. doi: 10.1109/TIP.2018.2880512. [[pdf](https://ieeexplore.ieee.org/document/8531762/)]\
+**FastDeRain: A novel video rain streak removal method using directional gradient priors**, ***IEEE Transactions on Image Processing***, 2018. [[pdf](https://ieeexplore.ieee.org/document/8531762/)]
 
 and DIP:
 
-A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.pdf)]
+**A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors**, ***CVPR 2017***  [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.pdf)]
 
 
 
