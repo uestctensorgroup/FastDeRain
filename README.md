@@ -24,7 +24,6 @@ This folder contains the implementation of the algorithm for video rain streaks 
 |---|---|
 |Demo.m|Demo of FastDeRain and DIP, implemented on **GPU**|
 
- [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.pdf)]\
 
 Meanwhile, our method for single image rain streaks removal are detailed in this article:\
 Liang-Jian Deng, Ting-Zhu Huang, Xi-Le Zhao, and Tai-Xiang Jiang; "A directional global sparse model for single image rain removal." Applied Mathematical Modelling (2018).\
