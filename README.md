@@ -20,7 +20,7 @@ This folder contains the implementation of the algorithm for video rain streaks 
 |---|---|
 |Demo.m|Demo of FastDeRain and DIP, implemented on **GPU**|
 
-Meanwhile, this folder also conrtains the code of our conference paper. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.pdf)]
+Meanwhile, this folder also conrtains the code of our conference paper. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.pdf)]\
 If you use this code, please cite
 
       @article{Jiang2018FastDeRain,
@@ -40,13 +40,7 @@ If you use this code, please cite
          year      = {2017}}
 Meanwhile, our method for single image rain streaks removal are detailed in this article:\
 Liang-Jian Deng, Ting-Zhu Huang, Xi-Le Zhao, and Tai-Xiang Jiang; "A directional global sparse model for single image rain removal." Applied Mathematical Modelling (2018).\
-Corresponding codes are compressed in the file "UGSM_v3.0.zip".
+Corresponding codes are compressed in the file "UGSM_v3.0.zip".\
 
 
-
-
-
-Other
---
-(The .p files will be replaced by .m files as soon as possible.)\
-Date: 03/03/2018
+Date: 20/Nov./2018
