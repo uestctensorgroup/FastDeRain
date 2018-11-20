@@ -1,7 +1,7 @@
 # Introduction
 This script is to run the method in "**Removing rain from single images via a deep detail network**". ***CVPR*** 2017
 Please download the code from https://xueyangfu.github.io/projects/cvpr2017.html \
-and extract the files in the folder '...\FastDeRain\Lib\compete_methods\DNN_CVPR2017'.\
+and extract the files in the folder '**...\FastDeRain\Lib\compete_methods\DNN_CVPR2017**'.\
 Then install it with the instructions. (matconvnet is necesary.)\
 This script is largely borrowed from Dr Xueyang Fu's demo.\
 We sincerely appreciate the generous sharing of the code form Dr Xueyang Fu.\
