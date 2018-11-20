@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 This script is to run the method in "Video Rain Streak Removal By Multiscale Convolutional Sparse Coding". CVPR 2018\
 Please download the code from    https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal\
 and extract the files in the folder  '...\FastDeRain\Lib\compete_methods\MS_CSC_CVPR2018'.\
