@@ -5,4 +5,4 @@ and extract the files in the folder '...\FastDeRain\Lib\compete_methods\SPAC_CNN
 Then install it with the instructions. (matconvnet is necesary.)\
 This script is largely borrowed from Dr Jie Chen's demo 'derain_SPAC_CNN_run.m'.\
 We sincerely appreciate the generous sharing of the code form the authors of this paper.\
-Dr. Jie Chen's homepage: https://hotndy.github.io/\
+Dr. Jie Chen's homepage: https://hotndy.github.io/
