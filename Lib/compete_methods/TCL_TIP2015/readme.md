@@ -10,6 +10,6 @@ For simplify the comparison with our FastDeRain, we make some minor changes with
 
 |Original file|  |New file|
 |---|---|---|
-|rainmap_ext |-> |rainmap_ext_new|
-|rain_removal_lra|-> |rain_removal_lra_new|
-|blurring|-> |blurring_new|
+|rainmap_ext.m |-> |rainmap_ext_new.m|
+|rain_removal_lra.m|-> |rain_removal_lra_new.m|
+|blurring.m|-> |blurring_new.m|
