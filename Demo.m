@@ -24,11 +24,11 @@
 %%%         compiled version. Email: taixiangjiang@gmail.com
 % Quality assessments indexes:
 % PSNR      ->	the whole peak signal-to-noise ratio of the video               
-% MSSIM     ->	mean value of the structural similarity                  	Ref: Z. Wang, A. C. Bovik, H. R. Sheikh, and E. P. Simoncelli, °∞Image quality assessment: from error visibility to structural similarity,°± IEEE Transactions on Image Processing, vol. 13, no. 4, pp. 600®C612, 2004.
-% MFSIM     ->	mean value of the feature similarity                        Ref: L. Zhang, L. Zhang, X. Mou, and D. Zhang, °∞Fsim: A feature similarity index for image quality assessment,°± IEEE transactions on Image Processing, vol. 20, no. 8, pp. 2378®C2386, 2011.
-% MVIF      ->	mean value of the visual information fidelity               Ref: H. R. Sheikh and A. C. Bovik, °∞Image information and visual quality,°±IEEE Transactions on image processing, vol. 15, no. 2, pp. 430®C444, 2006
-% MUIQI     ->	mean value of the universal image quality index             Ref: Z. Wang and A. C. Bovik, °∞A universal image quality index,°± IEEE Signal Processing Letters, vol. 9, no. 3, pp. 81®C84, 2002.
-% MGMSD     ->	mean value of the gradient magnitude similarity deviation   Ref: W. Xue, L. Zhang, X. Mou, and A. C. Bovik, °∞Gradient magnitude similarity deviation: A highly efficient perceptual image quality index,°± IEEE Transactions on Image Processing, vol. 23, no. 2, pp. 684®C695, 2014.
+% MSSIM     ->	mean value of the structural similarity                  	Ref: Z. Wang, A. C. Bovik, H. R. Sheikh, and E. P. Simoncelli, ‚ÄúImage quality assessment: from error visibility to structural similarity,‚Äù IEEE Transactions on Image Processing, vol. 13, no. 4, pp. 600‚Äì612, 2004.
+% MFSIM     ->	mean value of the feature similarity                        Ref: L. Zhang, L. Zhang, X. Mou, and D. Zhang, ‚ÄúFsim: A feature similarity index for image quality assessment,‚Äù IEEE transactions on Image Processing, vol. 20, no. 8, pp. 2378‚Äì2386, 2011.
+% MVIF      ->	mean value of the visual information fidelity               Ref: H. R. Sheikh and A. C. Bovik, ‚ÄúImage information and visual quality,‚ÄùIEEE Transactions on image processing, vol. 15, no. 2, pp. 430‚Äì444, 2006
+% MUIQI     ->	mean value of the universal image quality index             Ref: Z. Wang and A. C. Bovik, ‚ÄúA universal image quality index,‚Äù IEEE Signal Processing Letters, vol. 9, no. 3, pp. 81‚Äì84, 2002.
+% MGMSD     ->	mean value of the gradient magnitude similarity deviation   Ref: W. Xue, L. Zhang, X. Mou, and A. C. Bovik, ‚ÄúGradient magnitude similarity deviation: A highly efficient perceptual image quality index,‚Äù IEEE Transactions on Image Processing, vol. 23, no. 2, pp. 684‚Äì695, 2014.
 
 path(path,genpath(pwd));clear all;close all;
 root_path = pwd;       
@@ -37,7 +37,7 @@ root_path = pwd;
 %% load data
 % tips download all the synthetic rainy data used in our paper at:    1. baidu yun  
 %                                                               https://pan.baidu.com/s/1QMwUppD-5nYYwhSsqglJXg 
-%                                                               key£∫slhs 
+%                                                               keyÔºöslhs 
 %                                                           2. Google drive
 %                                                               https://drive.google.com/file/d/1zrGPWkYenWBzzMRONlmm1uG48vCdvrxr/view?usp=sharing
 cd([ root_path '\Data']);
@@ -55,8 +55,8 @@ load(Clean_dataname);
 %  Data:    1. 'Rainy'   a 4-D data with size m*n*3*t, the rainy video, with values in [0,1].
 %           2. 'B_clean' a 4-D data with size m*n*3*t, the groundtruth clean video, with values in [0,1].
 cd(root_path);
-Rainy = Rainy(:,:,:,1:20); % use a small sample to test this demo
-B_clean = B_clean(:,:,:,1:20);
+% Rainy = Rainy(:,:,:,1:20); % use a small sample to test this demo
+% B_clean = B_clean(:,:,:,1:20);
 %% 
 method_name{1} = 'Rainy         ';Enable(1) = 1; %set 1 to run this method
 method_name{2} = 'FastDeRain    ';Enable(2) = 1;
