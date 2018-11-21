@@ -7,8 +7,7 @@ FastDeRain
 The Matlab implementation of FastDeRain:\
 **FastDeRain: A novel video rain streak removal method using directional gradient priors**, ***IEEE Transactions on Image Processing***, 2018. [[pdf](https://ieeexplore.ieee.org/document/8531762/)]
 
-and DIP:
-
+and DIP:\
 **A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors**, ***CVPR*** 2017. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.pdf)]
 
 
@@ -28,7 +27,8 @@ This folder contains the implementation of the algorithm for video rain streaks 
 ### Other file:
 1. [A brief collection of works on image and video rain removal](https://github.com/TaiXiangJiang/FastDeRain/blob/master/state-of-the-art%20deraining%20methods.md)
 2. File "[UGSM_v3.0.zip](https://github.com/TaiXiangJiang/FastDeRain/blob/master/UGSM_v2.0.zip)": our method for single image rain streaks removal in this article:\
-Liang-Jian Deng, Ting-Zhu Huang, Xi-Le Zhao, and Tai-Xiang Jiang; "A directional global sparse model for single image rain removal." Applied Mathematical Modelling (2018).
+Liang-Jian Deng, Ting-Zhu Huang, Xi-Le Zhao, and Tai-Xiang Jiang; "A directional global sparse model for single image rain removal." Applied Mathematical Modelling (2018).\
+3. File "[yard.mp4](https://github.com/TaiXiangJiang/FastDeRain/blob/local/yard.mp4)" : the rainy video captured by Liang-Jian Deng.
 
 
 
