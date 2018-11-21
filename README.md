@@ -26,7 +26,7 @@ This folder contains the implementation of the algorithm for video rain streaks 
 |Demo.m|Demo of FastDeRain and DIP, implemented on **GPU**|
 
 ### Other file:
-1. [A brief collection of works on image and video rain removal(https://github.com/TaiXiangJiang/FastDeRain/blob/master/state-of-the-art%20deraining%20methods.md)]. \
+1. [A brief collection of works on image and video rain removal](https://github.com/TaiXiangJiang/FastDeRain/blob/master/state-of-the-art%20deraining%20methods.md)\
 2. File "[UGSM_v3.0.zip(https://github.com/TaiXiangJiang/FastDeRain/blob/master/UGSM_v2.0.zip)]": our method for single image rain streaks removal in this article:\
 Liang-Jian Deng, Ting-Zhu Huang, Xi-Le Zhao, and Tai-Xiang Jiang; "A directional global sparse model for single image rain removal." Applied Mathematical Modelling (2018).
 
