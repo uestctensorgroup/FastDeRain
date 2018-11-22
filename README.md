@@ -4,6 +4,8 @@ FastDeRain
 |---|---
 |E-mail|Taixiangjiang@gmail.com
 
+Use of these codes is free for research purposes only.
+
 The Matlab implementation of FastDeRain:\
 **FastDeRain: A novel video rain streak removal method using directional gradient priors**, ***IEEE Transactions on Image Processing***, 2018. [[pdf](https://ieeexplore.ieee.org/document/8531762/)]
 
