@@ -25,12 +25,12 @@ This folder contains the implementation of the algorithm for video rain streaks 
 |File name|Description|
 |---|---|
 |Demo.m|Demo of the conparison including:|
-||FastDeRain **TIP2018** implemented on **GPU** (it's easy to transfer the code to a CPU version)|
-|| DIP **CVPR 2017** implemented on **GPU**(it's easy to transfer the code to a CPU version)|
-|| MS-CSC **CVPR 2018** partially implemented on **GPU**) |
-|| SPAC-CNN **CVPR 2018** implemented on **GPU** (MatConNet)|
-|| DDN **CVPR 2017** single image method (MatConNet) |
-|| TCL **TIP 2015**|
+||FastDeRain ***TIP2018*** implemented on **GPU** (it's easy to transfer the code to a CPU version)|
+|| DIP ***CVPR 2017*** implemented on **GPU**(it's easy to transfer the code to a CPU version)|
+|| MS-CSC ***CVPR 2018*** partially implemented on **GPU**) |
+|| SPAC-CNN ***CVPR 2018*** implemented on **GPU** (MatConNet)|
+|| DDN ***CVPR 2017*** single image method (MatConNet) |
+|| TCL ***TIP 2015***|
 
 ### Other file:
 1. [A brief collection of works on image and video rain removal](https://github.com/TaiXiangJiang/FastDeRain/blob/master/state-of-the-art%20deraining%20methods.md)
