@@ -24,8 +24,8 @@ This folder contains the implementation of the algorithm for video rain streaks 
 ### Main file:
 |File name|Description|
 |---|---|
-|Demo.m|Demo of the conparison|
-|methods|FastDeRain **TIP2018** implemented on **GPU** (it's easy to transfer the code to a CPU version)|
+|Demo.m|Demo of the conparison including:|
+||FastDeRain **TIP2018** implemented on **GPU** (it's easy to transfer the code to a CPU version)|
 || DIP **CVPR 2017** implemented on **GPU**(it's easy to transfer the code to a CPU version)|
 || MS-CSC **CVPR 2018** partially implemented on **GPU** |
 || SPAC-CNN **CVPR 2018** implemented on **GPU** (MatConNet)|
