@@ -15,9 +15,7 @@ and DIP:\
 --
 Updating: A lite version has been released
 
-[[Baidu Yun](https://pan.baidu.com/s/1Oa9wUh0eGif4_RYjU7NcoQ)] key:eukg
-
-[[Google Cloud](https://drive.google.com/file/d/1_m4oaNY0i7uOCJAIKgI0MkMWVExEwQyo/view?usp=sharing)] 
+[[Google Cloud](https://drive.google.com/file/d/1_m4oaNY0i7uOCJAIKgI0MkMWVExEwQyo/view?usp=sharing)]  [[Baidu Yun](https://pan.baidu.com/s/1Oa9wUh0eGif4_RYjU7NcoQ)] key: eukg
 
 --
 
