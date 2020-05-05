@@ -12,11 +12,10 @@ The Matlab implementation of FastDeRain:\
 and DIP:\
 **A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors**, ***CVPR*** 2017. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.pdf)]
 
---
+--\
 Updating: A lite version has been released
 
 [[Google Cloud](https://drive.google.com/file/d/1_m4oaNY0i7uOCJAIKgI0MkMWVExEwQyo/view?usp=sharing)]  [[Baidu Yun](https://pan.baidu.com/s/1Oa9wUh0eGif4_RYjU7NcoQ)] key: eukg
-
 --
 
 Brief description
