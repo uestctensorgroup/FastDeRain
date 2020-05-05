@@ -49,12 +49,15 @@ Date: 20/Nov./2018
 
 If you use this code, please cite
 
-      @article{Jiang2018FastDeRain,
-         author    = {Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Deng, Liang-Jian and Wang, Yao},
-         title     = {FastDeRain: A Novel Video Rain Streak Removal Method Using Directional Gradient Priors},
-         journal   = {IEEE Transactions on Image Processing},
-         year      = {2018},
-         notes     = {doi: 10.1109/TIP.2018.2880512}}
+      @article{jiang2018fastderain,
+            title={Fastderain: A novel video rain streak removal method using directional gradient priors},
+            author={Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Deng, Liang-Jian and Wang, Yao},
+            journal={IEEE Transactions on Image Processing},
+            volume={28},
+            number={4},
+            pages={2089--2102},
+            year={2018},
+            publisher={IEEE}}
 
       @InProceedings{Jiang_2017_CVPR,
          author    = {Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Deng, Liang-Jian and Wang, Yao},
